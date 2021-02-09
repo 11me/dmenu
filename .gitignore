@@ -39,6 +39,7 @@ config.h
 *.x86_64
 *.hex
 dmenu
+stest
 
 # Debug files
 *.dSYM/
